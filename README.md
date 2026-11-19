@@ -8,21 +8,16 @@
 
 ---
 
-## 📅 Gestion de projet
-* 📊 **Suivi & Diagramme de Gantt (Notion) :** [Consulter le planning du projet](https://fossil-tsunami-fbd.notion.site/8384876b2e2348c095ad337423d9df17?v=13d3d5976fba4ef68fc41c26ed2f8404&source=copy_link)
-
----
-
-# 🎮 Analyse des performances des éditeurs de jeux vidéo (Projet Call of Data)
-
-![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
-
 ## 🎯 Contexte & Problématique
 Ce projet analyse les **performances des éditeurs de jeux vidéo** en croisant les volumes de ventes mondiales avec la réception critique (*Critic Score*) et celle des joueurs (*User Score*).
 
 L'objectif est de fournir un outil d'aide à la décision complet, de l'audit des données brutes en SQL jusqu'à la restitution visuelle interactive sous Power BI.
 
+---
+
+## 📅 Gestion de projet
+* 📊 **Suivi & Diagramme de Gantt (Notion) :** [Consulter le planning du projet](https://fossil-tsunami-fbd.notion.site/8384876b2e2348c095ad337423d9df17?v=13d3d5976fba4ef68fc41c26ed2f8404&source=copy_link)
+* 
 ---
 
 ## 🛠️ Stack technique
