@@ -1,6 +1,6 @@
 # video-games-analytics-call-of-data
-* ** Ce projet est un projet de fin d'étude suite à une formation de data analyst effectuée chez DataBird.
-* ** Analyse des performances des éditeurs de jeux vidéo : nettoyage et requêtage SQL sur BigQuery, tableau de bord interactif sur Power BI et pitch de présentation.
+** Il s'agit d'un projet de fin d'étude suite à une formation de data analyst effectuée chez DataBird.
+** Analyse des performances des éditeurs de jeux vidéo : nettoyage et requêtage SQL sur BigQuery, tableau de bord interactif sur Power BI et pitch de présentation.
 
 ---
 
