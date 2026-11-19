@@ -23,7 +23,7 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 ---
 
 ## 📂 Structure du dépôt
-* `data/` : Jeux de données sources au format CSV (`plateformes.csv`, `ventes_scores.csv` et `ventes_scores_clean.csv`).
+* `data/` : Jeux de données sources au format CSV (`plateformes.csv`, `ventes_scores.csv`, `ventes_scores_clean.csv` et `call_of_data_complet.csv`).
 * `sql/` : Scripts SQL découpés en 3 étapes (`01_exploration.sql`, `02_cleaning.sql`, `03_analyse.sql`).
 * `powerbi/` : Fichier source Power BI (`rapport_call_of_data.pbix`) et export statique (`rapport_call_of_data.pdf`).
 * `presentation/` : Support de présentation métier (`presentation_projet.pdf`).
