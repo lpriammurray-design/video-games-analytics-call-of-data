@@ -17,7 +17,7 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 
 ## 📅 Gestion de projet
 * 📊 **Suivi & Diagramme de Gantt (Notion) :** [Consulter le planning du projet](https://fossil-tsunami-fbd.notion.site/8384876b2e2348c095ad337423d9df17?v=13d3d5976fba4ef68fc41c26ed2f8404&source=copy_link)
-* 
+  
 ---
 
 ## 🛠️ Stack technique
