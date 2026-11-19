@@ -59,7 +59,7 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 
 ### Accéder aux livrables Power BI
 * 📄 **Consulter le rapport complet (PDF) :** [rapport_call_of_data.pdf](powerbi/rapport_call_of_data.pdf)
-* 💻 **Télécharger le fichier source (PBIX) :** [rapport_call_of_data.pbix](powerbi/rapport_call_of_data.pbix)
+* 💻 **Télécharger le fichier source (PBIX) :** [rapport_call_of_data.pbix](powerbi/rapport_call_of_data.pbix?raw=true)
 
 ---
 
