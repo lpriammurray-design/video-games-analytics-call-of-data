@@ -1,7 +1,10 @@
-# video-games-analytics-call-of-data
-** Il s'agit d'un projet de fin d'étude suite à une formation de data analyst effectuée chez DataBird.
+# 🎮 Analyse des performances des éditeurs de jeux vidéo (Projet Call of Data)
 
-** Analyse des performances des éditeurs de jeux vidéo : nettoyage et requêtage SQL sur BigQuery, tableau de bord interactif sur Power BI et pitch de présentation.
+![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Notion](https://img.shields.io/badge/Gestion%20de%20projet-Notion-000000?style=flat&logo=notion&logoColor=white)
+
+> Projet de fin d'études réalisé dans le cadre de ma formation **Data Analyst** chez **DataBird** : nettoyage et requêtage SQL sur BigQuery, tableau de bord interactif sous Power BI, gestion de projet et pitch de présentation.
 
 ---
 
