@@ -52,7 +52,6 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 ### Accéder aux livrables Power BI
 * 📄 **Consulter le rapport complet (PDF) :** [rapport_call_of_data.pdf](powerbi/rapport_call_of_data.pdf)
 * 💻 **Télécharger le fichier source (PBIX) :** [rapport_call_of_data.pbix](powerbi/rapport_call_of_data.pbix)
-* 🌐 **Rapport interactif en ligne :** `[Coller ici le lien public si publié sur le Web, sinon supprimer cette ligne]`
 
 ---
 
@@ -70,7 +69,7 @@ Avant le développement sur Power BI, des maquettes ont été réalisées pour d
 
 ## 🎤 Présentation & Vidéo de démonstration
 * 📑 **Support de présentation (Slides PDF) :** [presentation_projet.pdf](presentation/presentation_projet.pdf)
-* 🎥 **Vidéo de présentation :** `[Coller ici le lien YouTube/Loom ou glisser-déposer votre fichier .mp4 ici dans l'éditeur GitHub]`
+* 🎥 **Vidéo de présentation :** `[(https://youtu.be/uoevHEWN1L0)]`
 
 ---
 
