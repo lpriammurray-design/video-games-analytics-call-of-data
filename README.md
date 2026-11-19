@@ -46,8 +46,8 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 ## 📊 Tableau de bord Power BI
 
 ### Aperçu du rapport final
-![Tableau de bord - Vue 1](images/dashboard_page1.jpg)
-![Tableau de bord - Vue 2](images/dashboard_page2.jpg)
+![Tableau de bord - Vue 1](images/Power_BI_rapport_critic_score.jpg)
+![Tableau de bord - Vue 2](images/Power_BI_rapport_user_score.jpg)
 
 ### Accéder aux livrables Power BI
 * 📄 **Consulter le rapport complet (PDF) :** [rapport_call_of_data.pdf](powerbi/rapport_call_of_data.pdf)
