@@ -46,8 +46,8 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 ## 📊 Tableau de bord Power BI
 
 ### Aperçu du rapport final
-![Tableau de bord - Vue 1](images/Power_BI_rapport_critic_score.jpg)
-![Tableau de bord - Vue 2](images/Power_BI_rapport_user_score.jpg)
+![Tableau de bord - Vue 1](images/Power_BI_rapport_critic_score.png)
+![Tableau de bord - Vue 2](images/Power_BI_rapport_user_score.png)
 
 ### Accéder aux livrables Power BI
 * 📄 **Consulter le rapport complet (PDF) :** [rapport_call_of_data.pdf](powerbi/rapport_call_of_data.pdf)
@@ -60,11 +60,10 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 Avant le développement sur Power BI, des maquettes ont été réalisées pour définir la hiérarchie des indicateurs et fluidifier la lecture métier.
 
 <details>
-  <summary>Cliquez pour afficher les 3 maquettes initiales</summary>
+  <summary>Cliquez pour afficher les 2 maquettes initiales</summary>
   <br>
-  <img src="images/maquettes/maquette_page1.png" alt="Maquette page 1" width="750">
-  <img src="images/maquettes/maquette_page2.png" alt="Maquette page 2" width="750">
-  <img src="images/maquettes/maquette_page3.png" alt="Maquette page 3" width="750">
+  <img src="images/maquettes/Maquette_bouton_critic_score.jpg" alt="Maquette page 1" width="750">
+  <img src="images/maquettes/Maquette_bouton_user_score.jpg" alt="Maquette page 2" width="750">
 </details>
 
 ---
