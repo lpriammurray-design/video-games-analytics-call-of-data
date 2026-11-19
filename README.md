@@ -8,7 +8,7 @@ Analyse des performances des éditeurs de jeux vidéo : nettoyage et requêtage 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 🎯 Contexte & Problématique
-Ce projet analyse les **performances des éditeurs de jeux vidéo** en croisant les volumes de ventes (mondiales et régionales : Amérique du Nord, Europe, Japon, Autres) avec la réception critique (*Critic Score*) et celle des joueurs (*User Score*).
+Ce projet analyse les **performances des éditeurs de jeux vidéo** en croisant les volumes de ventes mondiales avec la réception critique (*Critic Score*) et celle des joueurs (*User Score*).
 
 L'objectif est de fournir un outil d'aide à la décision complet, de l'audit des données brutes en SQL jusqu'à la restitution visuelle interactive sous Power BI.
 
@@ -69,11 +69,9 @@ Avant le développement sur Power BI, des maquettes ont été réalisées pour d
 
 ## 🎤 Présentation & Vidéo de démonstration
 * 📑 **Support de présentation (Slides PDF) :** [presentation_projet.pdf](presentation/presentation_projet.pdf)
-* 🎥 **Vidéo de présentation :** `[(https://youtu.be/uoevHEWN1L0)]`
-
+* 🎥 **Vidéo de présentation :** [Regarder la démonstration sur YouTube]([https://youtu.be/uoevHEWN1L0]
 ---
 
 ## 💡 Principaux enseignements
-* **Éditeur leader :** `[Ex. Nintendo domine les ventes mondiales avec X millions d'unités vendues]`
-* **Répartition géographique :** `[Ex. L'Amérique du Nord représente X % du marché mondial, devant l'Europe (X %) et le Japon (X %)]`
-* **Corrélation ventes / notes :** `[Ex. Les éditeurs les mieux notés par la critique ne sont pas systématiquement les plus gros vendeurs en volume]`
+* **Éditeur leader :** `[Nintendo domine les ventes mondiales avec 8920 millions d'unités vendues]`
+* **Corrélation ventes / notes :** `[Les éditeurs les mieux notés par la critique ne sont pas systématiquement les plus gros vendeurs en volume]`
