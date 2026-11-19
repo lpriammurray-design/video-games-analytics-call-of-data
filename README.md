@@ -15,11 +15,6 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 
 ---
 
-## 📅 Gestion de projet
-* 📊 **Suivi & Diagramme de Gantt (Notion) :** [Consulter le planning du projet](https://fossil-tsunami-fbd.notion.site/8384876b2e2348c095ad337423d9df17?v=13d3d5976fba4ef68fc41c26ed2f8404&source=copy_link)
-  
----
-
 ## 🛠️ Stack technique
 * **Exploration, nettoyage & analyse :** SQL sur Google BigQuery
 * **Modélisation & Data Visualisation :** Microsoft Power BI (Power Query, DAX)
@@ -61,7 +56,7 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 
 ---
 
-## 🎨 Conception & Maquettes
+## 🎨 Conception & maquettes
 Avant le développement sur Power BI, des maquettes ont été réalisées pour définir la hiérarchie des indicateurs et fluidifier la lecture métier.
 
 <details>
@@ -73,7 +68,8 @@ Avant le développement sur Power BI, des maquettes ont été réalisées pour d
 
 ---
 
-## 🎤 Présentation & Vidéo de démonstration
+## 🎤 Gestion de projet, présentation & vidéo de démonstration
+* 📅 **Suivi & Diagramme de Gantt (Notion) :** [Consulter le planning du projet](https://fossil-tsunami-fbd.notion.site/8384876b2e2348c095ad337423d9df17?v=13d3d5976fba4ef68fc41c26ed2f8404&source=copy_link)
 * 📑 **Support de présentation (Slides PDF) :** [presentation_projet.pdf](presentation/presentation_projet.pdf)
 * 🎥 **Vidéo de présentation :** [Regarder la démonstration sur YouTube](https://youtu.be/uoevHEWN1L0)
 ---
