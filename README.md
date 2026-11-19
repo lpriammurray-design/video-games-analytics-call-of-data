@@ -2,6 +2,10 @@
 Ce projet est un projet de fin d'étude suite à une formation de data analyst effectuée.
 Analyse des performances des éditeurs de jeux vidéo : nettoyage et requêtage SQL sur BigQuery, tableau de bord interactif sur Power BI et pitch de présentation.
 
+## 📅 Gestion de projet
+* 📊 **Suivi & Diagramme de Gantt (Notion) :** [Consulter le planning du projet](https://fossil-tsunami-fbd.notion.site/8384876b2e2348c095ad337423d9df17?v=13d3d5976fba4ef68fc41c26ed2f8404&source=copy_link)
+  
+
 # 🎮 Analyse des performances des éditeurs de jeux vidéo (Projet Call of Data)
 
 ![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -69,9 +73,9 @@ Avant le développement sur Power BI, des maquettes ont été réalisées pour d
 
 ## 🎤 Présentation & Vidéo de démonstration
 * 📑 **Support de présentation (Slides PDF) :** [presentation_projet.pdf](presentation/presentation_projet.pdf)
-* 🎥 **Vidéo de présentation :** [Regarder la démonstration sur YouTube]([https://youtu.be/uoevHEWN1L0]
+* 🎥 **Vidéo de présentation :** [Regarder la démonstration sur YouTube](https://youtu.be/uoevHEWN1L0)
 ---
 
 ## 💡 Principaux enseignements
-* **Éditeur leader :** `[Nintendo domine les ventes mondiales avec 8920 millions d'unités vendues]`
-* **Corrélation ventes / notes :** `[Les éditeurs les mieux notés par la critique ne sont pas systématiquement les plus gros vendeurs en volume]`
+* **Éditeur leader :** Nintendo domine les ventes mondiales avec 1789 millions d'unités vendues.
+* **Corrélation ventes / notes :** Les éditeurs les mieux notés par la critique ne sont pas systématiquement les plus gros vendeurs en volume.
