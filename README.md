@@ -1,14 +1,14 @@
-# 🎮 Analyse des performances des éditeurs de jeux vidéo (Projet Call of Data)
+# 🎮 Analyse des performances des éditeurs de jeux vidéo (Projet call of data)
 
 ![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Notion](https://img.shields.io/badge/Gestion%20de%20projet-Notion-000000?style=flat&logo=notion&logoColor=white)
 
-> Projet de fin d'études réalisé dans le cadre de ma formation **Data Analyst** chez **DataBird** : nettoyage et requêtage SQL sur BigQuery, tableau de bord interactif sous Power BI, gestion de projet et pitch de présentation.
+> Projet de fin d'études réalisé dans le cadre de ma formation **Data analyst champion** chez **DataBird** : nettoyage et requêtage SQL sur BigQuery, tableau de bord interactif sous Power BI, gestion de projet et pitch de présentation.
 
 ---
 
-## 🎯 Contexte & Problématique
+## 🎯 Contexte & problématique
 Ce projet analyse les **performances des éditeurs de jeux vidéo** en croisant les volumes de ventes mondiales avec la réception critique (*Critic Score*) et celle des joueurs (*User Score*).
 
 L'objectif est de fournir un outil d'aide à la décision complet, de l'audit des données brutes en SQL jusqu'à la restitution visuelle interactive sous Power BI.
@@ -17,8 +17,8 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 
 ## 🛠️ Stack technique
 * **Exploration, nettoyage & analyse :** SQL sur Google BigQuery
-* **Modélisation & Data Visualisation :** Microsoft Power BI (Power Query, DAX)
-* **Conception & Restitution :** Maquettage (wireframes), présentation slides & démonstration vidéo
+* **Modélisation & data visualisation :** Microsoft Power BI (Power Query, DAX)
+* **Conception & restitution :** Maquettage (wireframes), présentation slides & démonstration vidéo
 
 ---
 
@@ -32,10 +32,10 @@ L'objectif est de fournir un outil d'aide à la décision complet, de l'audit de
 ---
 
 ## 🔍 Démarche analytique (SQL / BigQuery)
-1. **Exploration & Contrôle qualité (`01_exploration.sql`) :**
+1. **Exploration & contrôle qualité (`01_exploration.sql`) :**
    * Audit des tables `plateformes` (31 lignes, 0 valeur nulle, 0 doublon) et `ventes_scores` (16 719 lignes).
    * Calcul des taux de valeurs nulles par colonne, détection de faux doublons (conservés après vérification), contrôle des valeurs aberrantes (aucune vente négative, *Critic Score* entre 13 et 98, *User Score* entre 0 et 9,7) et vérification de l'intégrité référentielle via `LEFT JOIN`.
-2. **Nettoyage & Modélisation (`02_cleaning.sql`) :**
+2. **Nettoyage & modélisation (`02_cleaning.sql`) :**
    * Conversion de la colonne `Year_of_Release` du type `FLOAT64` vers `INT64`.
    * Après test d'une table dénormalisée (`call_of_data_complet`), choix d'architecture de conserver deux tables distinctes (`ventes_scores_clean` et `plateformes`) pour optimiser le modèle relationnel dans Power BI.
 3. **Analyse métier (`03_analyse.sql`) :**
@@ -69,8 +69,8 @@ Avant le développement sur Power BI, des maquettes ont été réalisées pour d
 ---
 
 ## 🎤 Gestion de projet, présentation & vidéo de démonstration
-* 📅 **Suivi & Diagramme de Gantt (Notion) :** [Consulter le planning du projet](https://fossil-tsunami-fbd.notion.site/8384876b2e2348c095ad337423d9df17?v=13d3d5976fba4ef68fc41c26ed2f8404&source=copy_link)
-* 📑 **Support de présentation (Slides PDF) :** [presentation_projet.pdf](presentation/presentation_projet.pdf)
+* 📅 **Suivi & diagramme de Gantt (Notion) :** [Consulter le planning du projet](https://fossil-tsunami-fbd.notion.site/8384876b2e2348c095ad337423d9df17?v=13d3d5976fba4ef68fc41c26ed2f8404&source=copy_link)
+* 📑 **Support de présentation (slides pdf) :** [presentation_projet.pdf](presentation/presentation_projet.pdf)
 * 🎥 **Vidéo de présentation :** [Regarder la démonstration sur YouTube](https://youtu.be/uoevHEWN1L0)
 ---
 
